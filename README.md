@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there! 👋
+My name is Ailén, but you can just call me Ailu :wink:
+I'm a systems engineering student. Currently learning fullstack develpoment.
 <!--
 **AilenCD/AilenCD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
